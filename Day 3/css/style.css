@@ -1,0 +1,40 @@
+
+
+body{
+    background-image: url('../../Day1/images/back1.avif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+}
+#text{
+    color:aliceblue;
+}
+
+.lorem{
+    color:rgb(210, 248, 179);
+    background-color: aqua;
+}
+
+.border{
+    display:inline-block;
+    border-style: dotted;
+    border-color: black;
+    border-width: 10px;
+    border-radius:100px;
+    height:70px;
+    width:500px;
+   /* overflow-y: scroll; */
+}
+
+.border p{
+    font-size:50px;
+}
+
+a{
+    text-decoration:none;
+}
+
+ul{
+    list-style: none;
+}
